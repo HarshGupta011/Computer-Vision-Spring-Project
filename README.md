@@ -3,12 +3,15 @@ Solution for 4 tasks: Image stitching, Changing the view of an image, Rectificat
 ## Part 1: Image Stitching
 Objectives:
 
-In this experiment, you were asked to find homography between two images to generate a panorama image. As shown in the examples, you should take pictures of an object (i.g a building) by rotating your camera. 
+In this experiment, you were asked to find homography between two images to generate a panorama image. As shown in the examples, you should take pictures of an object (i.g a building) by rotating your camera.
+
 <img width="581" alt="Screenshot 2023-04-29 at 6 57 50 PM" src="https://user-images.githubusercontent.com/31663796/235330412-8cbbf977-9ec3-44a0-9842-b3c2e5a60b52.png">
-Fig 1. Image Stitching
+Image Stitching
 
 First, you should manually select the corresponding points in two images. It is important to ensure that the selected points are in the same order.
+
 <img width="437" alt="Screenshot 2023-04-29 at 7 02 54 PM" src="https://user-images.githubusercontent.com/31663796/235330566-821395c5-b330-42ae-9c8e-332a0b24a477.png">
+
 Four points are selected in two images above.
 
 <img width="442" alt="Screenshot 2023-04-29 at 7 03 17 PM" src="https://user-images.githubusercontent.com/31663796/235330570-cf0ce49e-627a-473b-8e5d-52f83b3a615f.png">
